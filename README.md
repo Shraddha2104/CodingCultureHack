@@ -25,3 +25,8 @@ https://docs.google.com/document/d/1ziWz-INkbb8K5BM-u_AWhmIU4jcOmiewsujZTsKIs_Y/
 
 ### Treasure Hunt
 ![Screenshot](3.png)
+
+### Pencil sketch
+![Screenshot](sign.png)
+
+![Screenshot](sign_pencil.png)
